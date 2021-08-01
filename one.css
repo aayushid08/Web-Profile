@@ -1,0 +1,206 @@
+/* 
+    Document   : one
+    Created on : 21 Jul, 2017, 1:47:20 PM
+    Author     : SHREE
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.page{
+    width:100%;
+    height:1500px;
+    margin-left: 2px;
+    margin-right: 150px;
+    background: #2f2e2e;
+   }
+   
+   .header{
+       width: 100%;
+       height: 130px;
+       background: #1c1b1b;
+       opacity: 0.3;
+       
+   }
+   
+   .jd{
+    width:35%;
+    height:100px;
+   
+    font-style: Goudy Old Style;
+    color: white;
+   
+}
+
+.jd1{
+   
+    font-size: 100px;
+    float: left;
+    margin-left: 70px;
+    text-align: right;
+    overflow: hidden;
+    font: Felix Titling;
+}
+
+.jd2{
+    
+    font-size: 25px;
+     float: right;
+     text-align: left;
+     margin-top: 60px;
+    padding-left: 0px;
+}
+
+.menu{
+     
+    font-size: 20px;
+    color: white;
+    float: right;
+    text-align: right;
+    padding-right: 20px;
+    
+}
+
+
+.Slider{
+     width: 100%;
+       height: 100px;
+}
+.sn1{
+    font-size: 100px;
+    color: white;
+    font:  Constantia;
+    margin-left: 35px;
+    text-align: left;
+    margin-top: 10px;
+  
+   
+}
+.sn2{
+   
+     font-size: 20px;
+    color: black;
+    font:  Bodoni MT;
+    margin-right:  20px;
+    text-align: right;
+}
+
+.menu{
+    display: inline-block;
+    font-size: 20px;
+    color: white;
+    
+}
+.dotted{
+      border-bottom: 2px dotted white;
+      width: 88%;
+      padding-top: 30px;
+      margin-left: 50px;
+      margin-right: 50px;
+      padding-right: 50px;
+  }
+  
+  
+    .aayu{
+       width:100%;
+    height:680px;
+   
+  }
+    .damon{
+    width:30%;
+    height:500px;
+    text-align:center;
+    float: left;
+   margin-left: 50px;
+  padding-top: 145px;
+}
+
+.info{
+     width:50%;
+    height:300px;
+    float: left;
+    text-align: left;
+  padding-top: 190px;
+  color: white;
+ font-size: 15px;
+}
+
+
+
+
+
+.foot{
+    width:100%;
+    height:320px;
+    background-color: black;
+}
+
+.home{
+    width: 30%;
+    font-size: 18px;
+    color:white;
+    padding-top: 50px;
+    padding-left: 100px;
+    float: left;
+}
+
+.find{
+     width: 30%;
+    font-size: 18px;
+    color:white;
+    padding-top: 50px;
+   float: left;
+   text-align: left;
+}
+
+.name{
+    width: 30%;
+     font-size: 20px;
+     text-align: center;
+     float:right;
+     color:white;
+       padding-top: 50px;
+      
+       
+}
+
+.address{
+    width: 100%;
+    height: 20px;
+    font-size: 12px;
+     text-align: center;
+     color:white;
+     background-color: black;
+}
+
+.mydamon{
+    height:  445px;
+    width: 100%;
+    background-color: #1c1c1c;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+
+
+.md{
+    
+    font-size: 40px;
+    color: #9a999a;
+    
+    opacity: 0.9;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
