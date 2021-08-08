@@ -1,2 +1,2 @@
 # Web-Profile
-A Profile designed using HTML and CSS with a blog, discreption and a related video with contact details.
+Website Designed using HTML5, CSS, JAVASCRIPT, Wordpress, BootStrap.
